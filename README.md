@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidSebastianGigi
-- 👀 I’m interested in Coding and in Cybersecurity as well
+- 👀 I’m interested in Coding , DevOps and in Cybersecurity as well
 - 🌱 I’m currently learning BCA(2023-2026) in Nirmala College Muvattpuzha
 
 
